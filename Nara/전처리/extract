@@ -1,0 +1,5 @@
+
+
+python main.py platform=네이버 main_category=세계 start_date=2023-02-01 end_date=2023-03-16 filename=news_data.csv
+python main.py platform=다음 main_category=국제 start_date=2023-02-01 end_date=2023-03-16 filename=news_data2.csv
+
